@@ -4,8 +4,9 @@
 
 ## PAGEs
 * モ<!---->ンハン生<!---->物樹<!---->形図
-  * リポジトリ：https://github.com/clear1991499/ecological_tree_diagram
-  * ファイル（直リンク）：https://github.com/clear1991499/ecological_tree_diagram/blob/main/index.md
+  * リポジトリ：[https://github.com/clear1991499/ecological_tree_diagram](https://github.com/clear1991499/ecological_tree_diagram)
+  * ファイル（手動版）：[https://github.com/clear1991499/ecological_tree_diagram/blob/main/index.md](https://github.com/clear1991499/ecological_tree_diagram/blob/main/index.md)
+  * ファイル（csvからの自動生成版）：[https://github.com/clear1991499/ecological_tree_diagram/blob/main/auto/auto.md](https://github.com/clear1991499/ecological_tree_diagram/blob/main/auto/auto.md)
 
 ## GAMEs
 
@@ -15,7 +16,8 @@
   * PSP：2ndG，3rd
   * 3DS：3G，4，4G，X，XX
   * PS4：World，Ice<!---->born<!---->e
-  * Switch：Rise
+  * Switch：XX，Rise
+  * Steam：World+Ice<!---->born<!---->e
   * ア<!---->イルー村：G，DX
   * ストーリー<!---->ズ：無印，2
 * ア<!---->イマ<!---->ス
