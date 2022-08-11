@@ -2,6 +2,11 @@
 
 簡単なプロフィールとリンクを載せた中間拠点的なものです．
 
+## LINKs
+* Twitter: [@clear1991499](https://twitter.com/clear1991499)
+* pixiv: [clear](https://www.pixiv.net/users/12572405)
+* …
+
 ## PAGEs
 * モ<!---->ンハン生<!---->物樹<!---->形図
   * リポジトリ：[https://github.com/clear1991499/ecological_tree_diagram](https://github.com/clear1991499/ecological_tree_diagram)
@@ -16,7 +21,7 @@
   * PSP：2ndG，3rd
   * 3DS：3G，4，4G，X，XX
   * PS4：World，Ice<!---->born<!---->e
-  * Switch：XX，Rise
+  * Switch：XX，Rise，Su<!---->nbr<!---->eak
   * Steam：World+Ice<!---->born<!---->e
   * ア<!---->イルー村：G，DX
   * ストーリー<!---->ズ：無印，2
@@ -35,12 +40,7 @@
   * GBA：FRLG
   * DS：DPPt，HGSS，BW，BW2
   * 3DS：XY，USUM
-  * Switch：剣<!---->盾
+  * Switch：剣<!---->盾，SV（予定）
 * MGS
   * 3，PW，V
 * その他色々…
-
-## LINKs
-* Twitter: [@clear1991499](https://twitter.com/clear1991499)
-* pixiv: [clear](https://www.pixiv.net/users/12572405)
-* …
