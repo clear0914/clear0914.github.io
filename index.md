@@ -3,8 +3,10 @@
 簡単なプロフィールとリンクを載せた中間拠点的なものです．
 
 ## LINKs
-* Twitter: [@clear1991499](https://twitter.com/clear1991499)
-* pixiv: [clear](https://www.pixiv.net/users/12572405)
+* Twitter：
+  * [@clear1991499](https://twitter.com/clear1991499)
+  * [@1eminf](https://twitter.com/1eminf)
+* pixiv：[clear→ε](https://www.pixiv.net/users/12572405)
 * …
 
 ## PAGEs
@@ -40,7 +42,10 @@
   * GBA：FRLG
   * DS：DPPt，HGSS，BW，BW2
   * 3DS：XY，USUM
-  * Switch：剣<!---->盾，SV（予定）
+  * Switch：剣<!---->盾，SV
 * MGS
   * 3，PW，V
+* スプラ
+  * リアルタイム：3
+  * 過去作：2（予定）
 * その他色々…
