@@ -3,8 +3,7 @@
 簡単なプロフィールとリンクを載せた中間拠点的なものです．
 
 ## LINKs
-* Twitter：
-  * [@clear1991499](https://twitter.com/clear1991499)
+* Twitter：[@clear1991499](https://twitter.com/clear1991499)
 * pixiv：[clear](https://www.pixiv.net/users/12572405)
 * ポイピク：[clear](https://poipiku.com/6719893/)
 * …
