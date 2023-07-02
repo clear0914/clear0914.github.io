@@ -5,9 +5,8 @@
 ## LINKs
 * Twitter：
   * [@clear1991499](https://twitter.com/clear1991499)
-  * [@1eminf](https://twitter.com/1eminf)
-* pixiv：[clear→ε](https://www.pixiv.net/users/12572405)
-* ポイピク：[1eminf](https://poipiku.com/6719893/)
+* pixiv：[clear](https://www.pixiv.net/users/12572405)
+* ポイピク：[clear](https://poipiku.com/6719893/)
 * …
 
 ## PAGEs
@@ -49,5 +48,5 @@
   * 2021/04/15 ~：シャ<!---->ニマ<!---->ス
 * スプラ
   * リアルタイム：3
-  * 過去作：2
+  * 過去作：2+オ<!---->クト・エキ<!---->ス<!---->パ<!---->ンション
 * その他色々…
